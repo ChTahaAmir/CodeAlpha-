@@ -1,3 +1,1 @@
-# CodeAlpha-
-Internship Tasks 
-Taha Amir 
+CodeAlpha 
